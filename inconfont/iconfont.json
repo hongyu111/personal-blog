@@ -1,0 +1,30 @@
+{
+  "id": "4761054",
+  "name": "myblog",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "11372651",
+      "name": "点赞",
+      "font_class": "dianzan",
+      "unicode": "e8ad",
+      "unicode_decimal": 59565
+    },
+    {
+      "icon_id": "11372666",
+      "name": "分享",
+      "font_class": "fenxiang",
+      "unicode": "e8b0",
+      "unicode_decimal": 59568
+    },
+    {
+      "icon_id": "11372722",
+      "name": "消息",
+      "font_class": "xiaoxi",
+      "unicode": "e8bd",
+      "unicode_decimal": 59581
+    }
+  ]
+}
