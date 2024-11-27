@@ -15,7 +15,7 @@ li {
   list-style: none;
 }
 body {
-  background-image: url(../image/bg.png);
+  background-image: url(image/bg.png);
   background-size: cover;
   height: 100%;
   object-fit: fill;
@@ -87,7 +87,7 @@ body {
   width: 80%;
   background: bottom;
   background-image: linear-gradient(to bottom, transparent 20%, #ffffff),
-    url(../image/dh.png);
+    url(image/dh.png);
   background-size: cover;
   color: purple;
   text-align: center;
