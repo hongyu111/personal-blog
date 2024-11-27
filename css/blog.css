@@ -1,10 +1,10 @@
 @font-face {
   font-family: "myFont";
-  src: url(/hongyu111/personal-blog/edit/main/font-family/BrannbollFet-1.ttf) format("truetype");
+  src: url(../font-family/BrannbollFet-1.ttf) format("truetype");
 }
 @font-face {
   font-family: "myChFont";
-  src: url(/hongyu111/personal-blog/edit/main/font-family/ZiHunJianQiShouShu-2.ttf) format("truetype");
+  src: url(../font-family/ZiHunJianQiShouShu-2.ttf) format("truetype");
 }
 * {
   padding: 0;
@@ -15,7 +15,8 @@ li {
   list-style: none;
 }
 body {
-  background-image: url(image/bg.png);
+  background-color: pink;
+  background-image: url(../image/bg.png);
   background-size: cover;
   height: 100%;
   object-fit: fill;
@@ -87,7 +88,7 @@ body {
   width: 80%;
   background: bottom;
   background-image: linear-gradient(to bottom, transparent 20%, #ffffff),
-    url(image/dh.png);
+    url(../image/dh.png);
   background-size: cover;
   color: purple;
   text-align: center;
@@ -101,7 +102,7 @@ body {
   top: 6rem;
   width: 100%;
   text-align: center;
-  font-family: myChFont,"隶书";
+  font-family: myChFont, "隶书";
   font-size: 1.25rem;
 }
 .container {
