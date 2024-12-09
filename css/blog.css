@@ -49,7 +49,8 @@ body {
   left: 11.5625rem;
   width: 80%;
   background-color: rgba(102, 102, 102, 0.3);
-  position: relative;
+  position: sticky;
+  top: 0;
   z-index: 1;
 }
 .nav .left {
